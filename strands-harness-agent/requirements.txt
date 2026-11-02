@@ -1,0 +1,2 @@
+strands-agents[anthropic]>=1.47.0
+strands-agents-tools>=0.5.3
